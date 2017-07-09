@@ -1,0 +1,13 @@
+DFS
+A
+D
+4
+A C 3
+A B 1
+C D 1
+B D 3
+4
+A 4
+B 3
+C 1
+D 0

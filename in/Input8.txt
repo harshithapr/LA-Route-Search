@@ -1,0 +1,17 @@
+UCS
+A
+E
+6
+A B 2
+A C 2
+A D 2
+B E 1
+C E 3
+D E 3
+6
+A 3
+B 1
+C 1
+D 1
+F 100
+E 0
